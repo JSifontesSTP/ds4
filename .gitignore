@@ -1,0 +1,78 @@
+## Visual Studio temporales
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+## Archivos de compilación
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+
+## Archivos de depuración
+*.pdb
+*.log
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.tmp
+*.tmp_proj
+*.tlog
+*.vsps
+*.vspx
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+## Configuración de pruebas
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+## Paquetes NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+*.xml
+*.dll
+*.exe
+packages/
+
+## Archivos de Resharper y Rider
+_ReSharper*/
+*.DotSettings.user
+.idea/
+
+## Archivos de estilo y análisis
+*.DotSettings
+stylecop.json
+
+## Archivos generados por cobertura o análisis
+*.coverage
+*.coveragexml
+TestResults/
+
+## Otros comunes
+*.dbmdl
+*.bak
+*.ldf
+*.mdf
+*.sqlite
+*.sqlite3
+
+# Archivos de publicación
+publish/
+*.Publish.xml
+
+# Configuración de usuario y secretos
+*.config
+secrets.json
+appsettings.Development.json
